@@ -2,3 +2,5 @@ open github
 create an acount
 create a repository
 create a file
+open network in insights branch
+and then commit this to new branch
