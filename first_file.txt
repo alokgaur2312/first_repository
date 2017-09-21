@@ -1,0 +1,4 @@
+open github
+create an acount
+create a repository
+create a file
